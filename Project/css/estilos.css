@@ -1,0 +1,7 @@
+/*Estilos al contenedor*/
+.contenedor{
+    margin: 40px;
+}
+.mensaje-basio{
+    text-align: center; margin-top: 60px;margin-bottom: 60px;
+}
